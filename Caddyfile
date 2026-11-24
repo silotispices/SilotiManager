@@ -1,0 +1,3 @@
+stock.example.com {
+    reverse_proxy stock-manager:8000
+}

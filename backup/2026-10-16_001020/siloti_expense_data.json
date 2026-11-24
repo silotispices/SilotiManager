@@ -1,0 +1,165 @@
+{
+  "expenses": [
+    {
+      "id": "20261014223622817440",
+      "date": "2026-02-09",
+      "category": "Other",
+      "description": "Pouch COurier Charge",
+      "amount": 200.0
+    },
+    {
+      "id": "20261015201346075272",
+      "date": "2026-02-09",
+      "category": "Other",
+      "description": "Stamp paper",
+      "amount": 150.0
+    },
+    {
+      "id": "20261015201419681248",
+      "date": "2026-02-14",
+      "category": "Other",
+      "description": "Exploring market in Chawri bazar",
+      "amount": 250.0
+    },
+    {
+      "id": "20261015233359228454",
+      "date": "2026-02-15",
+      "category": "Other",
+      "description": "trademark class 30",
+      "amount": 5000.0
+    },
+    {
+      "id": "20261015233423267686",
+      "date": "2026-02-26",
+      "category": "Packaging",
+      "description": "Rajkot sample",
+      "amount": 100.0
+    },
+    {
+      "id": "20261015233447768756",
+      "date": "2026-03-16",
+      "category": "Other",
+      "description": "AAhar Exhibition",
+      "amount": 761.0
+    },
+    {
+      "id": "20261015233510886231",
+      "date": "2026-03-20",
+      "category": "Other",
+      "description": "Trademark Class 29",
+      "amount": 5000.0
+    },
+    {
+      "id": "20261015233543449900",
+      "date": "2026-04-14",
+      "category": "Stock Purchase",
+      "description": "Harkesh Visit",
+      "amount": 400.0
+    },
+    {
+      "id": "20261015233612854022",
+      "date": "2026-05-22",
+      "category": "Rent",
+      "description": "Rent Agreement",
+      "amount": 510.0
+    },
+    {
+      "id": "20261015233652177725",
+      "date": "2026-08-03",
+      "category": "Packaging",
+      "description": "Delhi Box Factory",
+      "amount": 546.0
+    },
+    {
+      "id": "20261015233727026718",
+      "date": "2026-08-29",
+      "category": "Utilities",
+      "description": "Siloti Email",
+      "amount": 600.0
+    },
+    {
+      "id": "20261015233751807541",
+      "date": "2026-08-29",
+      "category": "Utilities",
+      "description": "Siloti Bank Account open",
+      "amount": 350.0
+    },
+    {
+      "id": "20261015233815001632",
+      "date": "2026-08-29",
+      "category": "Utilities",
+      "description": "Palam vishar inspector visit",
+      "amount": 350.0
+    },
+    {
+      "id": "20261015233859563633",
+      "date": "2026-09-03",
+      "category": "Stock Purchase",
+      "description": "Black Pepper",
+      "amount": 22420.0
+    },
+    {
+      "id": "20261015233925600553",
+      "date": "2026-09-16",
+      "category": "Utilities",
+      "description": "Sample Testing",
+      "amount": 7100.0
+    },
+    {
+      "id": "20261015233957972218",
+      "date": "2026-09-18",
+      "category": "Utilities",
+      "description": "Reel Boost",
+      "amount": 169.0
+    },
+    {
+      "id": "20261015234021235550",
+      "date": "2026-09-29",
+      "category": "Packaging",
+      "description": "transparent Pouches",
+      "amount": 250.0
+    },
+    {
+      "id": "20261015234050160198",
+      "date": "2026-10-07",
+      "category": "Packaging",
+      "description": "MRP Stamp",
+      "amount": 2200.0
+    },
+    {
+      "id": "20261015234117767182",
+      "date": "2026-10-08",
+      "category": "Packaging",
+      "description": "Pouches Transport and Labour",
+      "amount": 2100.0
+    },
+    {
+      "id": "20261015234146297354",
+      "date": "2026-10-13",
+      "category": "Packaging",
+      "description": "Pouches Courior to Harkesh",
+      "amount": 131.0
+    },
+    {
+      "id": "20261015234220553424",
+      "date": "2026-10-14",
+      "category": "Packaging",
+      "description": "Carton Boxes",
+      "amount": 542.0
+    },
+    {
+      "id": "20261015234355443268",
+      "date": "2026-10-14",
+      "category": "Packaging",
+      "description": "Gumming SHeet",
+      "amount": 370.0
+    },
+    {
+      "id": "20261015234625453907",
+      "date": "2026-10-01",
+      "category": "Packaging",
+      "description": "Packaging cost",
+      "amount": 81703.0
+    }
+  ]
+}
