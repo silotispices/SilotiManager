@@ -1,0 +1,49 @@
+{
+  "opening": {
+    "Red Chilli|100g": 21,
+    "Red Chilli|200g": 21,
+    "Coriander|100g": 21,
+    "Coriander|200g": 21,
+    "Black Pepper|50g": 21,
+    "Turmeric|100g": 21,
+    "Turmeric|200g": 21
+  },
+  "movements": [
+    {
+      "id": "excel-import-red-chilli-200g-11",
+      "date": "2026-10-19",
+      "product": "Red Chilli",
+      "sku": "200g",
+      "type": "OUT",
+      "quantity": 1,
+      "unit_price": 0,
+      "sale_amount": 0,
+      "party": "Sample (Testing)",
+      "reference": "Imported from Siloti_Stock_Management.xlsx, Red Chilli row 11"
+    },
+    {
+      "id": "excel-import-coriander-200g-11",
+      "date": "2026-10-19",
+      "product": "Coriander",
+      "sku": "200g",
+      "type": "OUT",
+      "quantity": 1,
+      "unit_price": 0,
+      "sale_amount": 0,
+      "party": "Sample (Testing)",
+      "reference": "Imported from Siloti_Stock_Management.xlsx, Coriander row 11"
+    },
+    {
+      "id": "excel-import-turmeric-200g-11",
+      "date": "2026-10-19",
+      "product": "Turmeric",
+      "sku": "200g",
+      "type": "OUT",
+      "quantity": 1,
+      "unit_price": 0,
+      "sale_amount": 0,
+      "party": "Sample (Testing)",
+      "reference": "Imported from Siloti_Stock_Management.xlsx, Turmeric row 11"
+    }
+  ]
+}
